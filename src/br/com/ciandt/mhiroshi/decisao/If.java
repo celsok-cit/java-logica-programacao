@@ -1,6 +1,6 @@
-package br.com.ciandt.login.decisao;
+package br.com.ciandt.mhiroshi.decisao;
 
-public class Ternario {
+public class If {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
