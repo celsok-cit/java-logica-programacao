@@ -4,8 +4,8 @@ public class Atribuicao {
 
 	public static void main(String[] args) {
 		
-		String nome = "João";
-		int idade = 26;
+		String nome = "Jonatas";
+		int idade = 36;
 		
 		System.out.println("Nome: " + nome + ", idade: " + idade + " anos");
 		
