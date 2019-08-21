@@ -1,6 +1,6 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.thiagodf.decisao;
 
-public class Relacionais {
+public class If {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
