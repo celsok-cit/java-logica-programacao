@@ -1,4 +1,4 @@
-package br.com.ciandt.login.repeticao;
+package br.com.ciandt.jwillian.repeticao;
 
 public class DoWhile {
 

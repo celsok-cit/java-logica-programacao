@@ -1,4 +1,4 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.jwillian.operadores;
 
 public class Aritmetico {
 

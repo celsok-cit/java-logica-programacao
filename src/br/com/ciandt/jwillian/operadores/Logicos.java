@@ -1,6 +1,6 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.jwillian.operadores;
 
-public class Igualdade {
+public class Logicos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

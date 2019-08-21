@@ -1,6 +1,6 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.jwillian.decisao;
 
-public class Logicos {
+public class If {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
