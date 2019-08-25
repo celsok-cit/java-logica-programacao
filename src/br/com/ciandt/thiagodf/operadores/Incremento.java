@@ -1,7 +1,13 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.thiagodf.operadores;
 
 import java.util.Scanner;
 
+/**
+ * Class de Incremento o valor digitado no console.
+ * 
+ * @author thiagodf
+ *
+ */
 public class Incremento {
 
 	@SuppressWarnings("resource")
@@ -11,7 +17,7 @@ public class Incremento {
 		System.out.println("Digite o valor para incrementar no console:");
 		double valor = sc.nextDouble();
 
-		System.out.println(valor++);
+		System.out.println(++valor);
 	}
 
 }
