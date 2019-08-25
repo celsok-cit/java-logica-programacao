@@ -3,6 +3,12 @@ package br.com.ciandt.thiagodf.decisao;
 import java.util.Calendar;
 import java.util.Scanner;
 
+/**
+ * Class IfElse verifica a maior idade.
+ * 
+ * @author thiagodf
+ *
+ */
 public class IfElse {
 	
 	@SuppressWarnings("resource")

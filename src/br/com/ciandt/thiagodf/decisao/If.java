@@ -2,6 +2,12 @@ package br.com.ciandt.thiagodf.decisao;
 
 import java.util.Scanner;
 
+/**
+ * Class if verifica se o valor é maior que 25.
+ * 
+ * @author thiagodf
+ *
+ */
 public class If {
 
 	@SuppressWarnings("resource")
@@ -18,7 +24,9 @@ public class If {
 			System.out.println("Desconto");
 			
 		}
+		
 		System.out.println("Obrigado pela compra");
+		
 	}
 
 }

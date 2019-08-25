@@ -2,6 +2,12 @@ package br.com.ciandt.thiagodf.operadores;
 
 import java.util.Scanner;
 
+/**
+ * Class de Igualdade valida se o valor digitado é igual a 10.
+ * 
+ * @author thiagodf
+ *
+ */
 public class Igualdade {
 
 	@SuppressWarnings("resource")
@@ -15,14 +21,14 @@ public class Igualdade {
 		
 		
 		if (valor == 10) {
-			// Se o valor digitado for igual a 10 ele imprime.
+			
 			System.out.println("Acertou!!!");
 			
 		} else {
-			// Se o valor digitado for diferente de 10 ele imprime.
+			
 			System.out.println("ERRROOOOUUU!!!");
 		}
-
+		
 	}
-
+	
 }

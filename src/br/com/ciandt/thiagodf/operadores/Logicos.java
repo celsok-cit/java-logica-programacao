@@ -2,6 +2,12 @@ package br.com.ciandt.thiagodf.operadores;
 
 import java.util.Scanner;
 
+/**
+ * Class Logicos verifica se os dois valores ou um deles, são maiores que 100.
+ * 
+ * @author thiagodf
+ *
+ */
 public class Logicos {
 
 	@SuppressWarnings("resource")

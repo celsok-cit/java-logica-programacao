@@ -2,6 +2,12 @@ package br.com.ciandt.thiagodf.operadores;
 
 import java.util.Scanner;
 
+/**
+ * Class de Decrementar o valor digitado no console.
+ * 
+ * @author thiagodf
+ *
+ */
 public class Decremento {
 
 	@SuppressWarnings("resource")
@@ -13,5 +19,4 @@ public class Decremento {
 		
 		System.out.println(--valor);
 	}
-
 }

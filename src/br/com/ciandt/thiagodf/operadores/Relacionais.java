@@ -2,6 +2,14 @@ package br.com.ciandt.thiagodf.operadores;
 
 import java.util.Scanner;
 
+/**
+ * Class Relacionais valida a media com base nas duas notas
+ * caso a media seja maior ou iguai a 7 "Aprovado"
+ * caso a media seja menor que 4 "Reprovado"
+ * 
+ * @author thiagodf
+ *
+ */
 public class Relacionais {
 
 	@SuppressWarnings("resource")

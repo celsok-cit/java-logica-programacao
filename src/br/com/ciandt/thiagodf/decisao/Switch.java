@@ -2,6 +2,12 @@ package br.com.ciandt.thiagodf.decisao;
 
 import java.util.Scanner;
 
+/**
+ * Class Switch valida se a liguagem de programação é a esperada.
+ * 
+ * @author thiagodf
+ *
+ */
 public class Switch {
 
 	@SuppressWarnings("resource")

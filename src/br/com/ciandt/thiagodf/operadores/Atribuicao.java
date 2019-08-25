@@ -1,5 +1,11 @@
 package br.com.ciandt.thiagodf.operadores;
 
+/**
+ * Class de Atribuição de nome e idade.
+ * 
+ * @author thiagodf
+ *
+ */
 public class Atribuicao {
 
 	public static void main(String[] args) {
