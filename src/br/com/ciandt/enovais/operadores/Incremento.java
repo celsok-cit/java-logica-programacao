@@ -1,4 +1,4 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.enovais.operadores;
 
 import java.util.Scanner;
 
@@ -9,9 +9,9 @@ public class Incremento {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Digite o valor para incrementar no console:");
-		double valor = sc.nextDouble();
+		Double valor = sc.nextDouble();
 
-		System.out.println(valor++);
+		System.out.println(++valor);
 	}
 
 }
