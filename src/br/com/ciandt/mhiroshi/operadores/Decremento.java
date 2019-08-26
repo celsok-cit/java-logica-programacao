@@ -1,17 +1,18 @@
-package br.com.ciandt.login.operadores;
+package br.com.ciandt.mhiroshi.operadores;
 
 import java.util.Scanner;
 
-public class Incremento {
+public class Decremento {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite o valor para incrementar no console:");
+		System.out.println("Digite o valor para decrementar no console:");
 		double valor = sc.nextDouble();
 
-		System.out.println(valor++);
+		System.out.println(--valor);
 	}
 
 }
+
