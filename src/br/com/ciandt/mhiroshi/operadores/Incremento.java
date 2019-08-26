@@ -11,7 +11,7 @@ public class Incremento {
 		System.out.println("Digite o valor para incrementar no console:");
 		double valor = sc.nextDouble();
 
-		System.out.println(valor++);
+		System.out.println(++valor);
 	}
 
 }
